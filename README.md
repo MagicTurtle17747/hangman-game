@@ -10,11 +10,18 @@
 * Adjustable sound
 
 #### Installation steps:
-1. If using standalone, clone the repository and go to Standalone->Wild West Hangman v4727.exe
-2. Run program! 
-3. Otherwise if you prefer to install, clone the repository and run setup.exe in Install->Setup.exe
-4. Ignore publisher errors and click 'Install'
-5. Run program!
+
+##### Standalone
+1. Download files from the link: 
+https://github.com/MagicTurtle17747/hangman-game/releases/download/v4.7/WildWestHangmanInstall.v4727.7z
+2. Extract and run WildWestHangmanStandalone.v4727->Hangman.exe
+
+##### Install
+1. Download files from the link:
+https://github.com/MagicTurtle17747/hangman-game/releases/download/v4.7/WildWestHangmanStandalone.v4727.7z
+2. Extract and run WildWestHangmanInstall.v4727->setup.exe
+3. Go through installation processes 
+4. Once done, run program in start menu "Wild West Hangman"
 
 #### Minimum System Requirements:
 * **OS:** Windows XP
