@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Hangman_Major.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+    <userSettings>
+        <Hangman_Major.My.MySettings>
+            <setting name="HighscoreNames" serializeAs="Xml">
+                <value>
+                    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                        <string>William Hearst</string>
+                        <string>James Bradley</string>
+                        <string>Ursula Leguin</string>
+                        <string>Hulk</string>
+                        <string>Spiderman</string>
+                        <string>Spongebob Squarepants</string>
+                        <string>Sherlock Holmes</string>
+                        <string>Gandalf the Grey</string>
+                        <string>Harry Potter</string>
+                        <string>Scooby</string>
+                    </ArrayOfString>
+                </value>
+            </setting>
+            <setting name="HighscoreScores" serializeAs="Xml">
+                <value>
+                    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                        <string>1</string>
+                        <string>2</string>
+                        <string>-3</string>
+                        <string>-5</string>
+                        <string>-1</string>
+                        <string>-2</string>
+                        <string>5</string>
+                        <string>7</string>
+                        <string>5</string>
+                        <string>10</string>
+                    </ArrayOfString>
+                </value>
+            </setting>
+        </Hangman_Major.My.MySettings>
+    </userSettings>
+</configuration>
