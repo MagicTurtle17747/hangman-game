@@ -1,7 +1,7 @@
 # hangman-game
 **A hangman game for a school project**
 
-### Latest: V4811 - 30th July 2017
+### V4811 - 30th July 2017
 #### Features: 
 * Wild West Theme with sound and UI
 * Highscore leaderboard
