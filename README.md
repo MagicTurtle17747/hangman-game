@@ -1,7 +1,6 @@
 # hangman-game
 **A hangman game for a school project**
 
-### V4811 - 30th July 2017
 #### Features: 
 * Wild West Theme with sound and UI
 * Highscore leaderboard
@@ -12,13 +11,8 @@
 
 #### Installation steps:
 
-##### Standalone
-1. Download files from the link: 
-https://github.com/MagicTurtle17747/hangman-game/releases/download/v4.8/WWH.v4.8.1.1.7z
-2. Extract with 7zip and run WWH v4811->Wild West Hangman.exe
-
-##### Install
--removed-
+1. Download the latest release from https://github.com/MagicTurtle17747/hangman-game/releases
+2. Extract with 7zip and run WWH vXXXX->Wild West Hangman.exe
 
 #### Minimum System Requirements:
 * **OS:** Windows XP
